@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zl-server" />
+        <module name="zl-api" />
+        <module name="zl-common" />
+        <module name="zl-banner" />
+        <module name="zl-biz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="multiMode" target="17" />
+      <module name="zl-api" target="17" />
+      <module name="zl-banner" target="17" />
+      <module name="zl-biz" target="17" />
+      <module name="zl-common" target="17" />
+      <module name="zl-depedencies" target="17" />
+      <module name="zl-dependencies" target="17" />
+      <module name="zl-server" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+# Project exclude paths
+/multiMode/zl-api/target/
+/multiMode/zl-banner/target/
+/multiMode/zl-biz/target/
+/multiMode/zl-common/target/

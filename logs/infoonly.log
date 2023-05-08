@@ -1,0 +1,409 @@
+2023-05-08 09:31:29 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 09:31:30 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:31:30 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 09:31:30 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 09:31:30 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 09:31:30 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 09:31:30 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@3af36922
+2023-05-08 09:31:31 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 09:31:31 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:31:32 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 09:31:32 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 09:31:45 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Pausing ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:31:45 [main] INFO  o.ap.catalina.core.StandardService(173): Stopping service [Tomcat]
+2023-05-08 09:31:45 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Stopping ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:31:45 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Destroying ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:14 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 09:33:15 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:15 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 09:33:15 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 09:33:15 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 09:33:15 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 09:33:16 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@a457c2b
+2023-05-08 09:33:16 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 09:33:18 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:18 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 09:33:18 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 09:33:19 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Pausing ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:19 [main] INFO  o.ap.catalina.core.StandardService(173): Stopping service [Tomcat]
+2023-05-08 09:33:19 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Stopping ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:19 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Destroying ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:53 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 09:33:54 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:54 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 09:33:54 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 09:33:54 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 09:33:54 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 09:33:54 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@22ae905f
+2023-05-08 09:33:54 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 09:33:56 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:33:56 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 09:33:56 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 09:34:03 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 09:34:04 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 14.061 seconds (process running for 15.854)
+2023-05-08 09:34:05 [pool-8-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 09:48:44 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 09:48:44 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 09:49:01 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 09:49:03 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:49:03 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 09:49:03 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 09:49:03 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 09:49:03 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 09:49:03 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@6cd45b6c
+2023-05-08 09:49:03 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 09:49:04 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 09:49:04 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 09:49:04 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 09:49:05 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 09:49:05 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.912 seconds (process running for 6.594)
+2023-05-08 09:49:06 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:06:27 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-0} closing ...
+2023-05-08 10:06:27 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:06:27 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:06:34 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:06:35 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:06:35 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:06:35 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:06:35 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:06:35 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:06:35 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@205159dc
+2023-05-08 10:06:35 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:06:36 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:06:36 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:06:36 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:06:37 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:06:37 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.821 seconds (process running for 6.316)
+2023-05-08 10:06:38 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:09:12 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-0} closing ...
+2023-05-08 10:09:12 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:09:12 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:09:19 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:09:20 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:09:20 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:09:20 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:09:20 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:09:20 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:09:20 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@4492b393
+2023-05-08 10:09:20 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:09:21 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:09:21 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:09:21 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:09:22 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:09:22 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.762 seconds (process running for 6.126)
+2023-05-08 10:09:23 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:09:30 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:09:30 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:09:30 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:09:30 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:09:30 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:09:30 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:09:30 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:10:41 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:10:41 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:10:41 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:10:41 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:10:47 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:10:48 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:10:48 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:10:48 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:10:48 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:10:48 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:10:49 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@67941d
+2023-05-08 10:10:49 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:10:50 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:10:50 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:10:50 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:10:51 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:10:51 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.763 seconds (process running for 6.217)
+2023-05-08 10:10:52 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:11:19 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:11:19 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:11:19 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:11:20 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:11:20 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:11:20 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:11:20 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:13:12 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:13:12 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:13:12 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:13:12 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:13:18 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:13:19 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:13:19 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:13:19 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:13:20 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:13:20 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:13:20 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@22686ddb
+2023-05-08 10:13:20 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:13:21 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:13:21 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:13:21 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:13:22 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:13:22 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.898 seconds (process running for 6.183)
+2023-05-08 10:13:23 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:13:25 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:13:25 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:13:25 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:13:25 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:13:25 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:13:25 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:13:25 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:13:52 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:13:52 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:13:52 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:13:52 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:14:00 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:14:01 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:14:01 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:14:01 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:14:01 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:14:01 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:14:01 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@7dd91ffc
+2023-05-08 10:14:01 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:14:02 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:14:02 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:14:02 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:14:03 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:14:03 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.888 seconds (process running for 5.974)
+2023-05-08 10:14:04 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:14:12 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:14:12 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:14:12 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:14:12 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:14:12 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:14:12 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:14:12 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:20:15 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:20:15 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:20:15 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:20:15 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:20:31 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:20:32 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:20:32 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:20:32 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:20:32 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:20:32 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:20:32 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@74eec640
+2023-05-08 10:20:32 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:20:33 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:20:33 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:20:33 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:20:34 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:20:34 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.817 seconds (process running for 6.566)
+2023-05-08 10:20:35 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:20:37 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:20:37 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:20:37 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:20:37 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:20:37 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:20:37 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:20:37 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:29:21 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:29:21 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:29:21 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:29:21 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:29:26 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:29:27 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:29:27 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:29:27 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:29:27 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:29:27 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:29:27 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@5fd18419
+2023-05-08 10:29:28 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:29:28 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:29:28 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:29:28 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:29:29 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:29:30 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 5.016 seconds (process running for 6.554)
+2023-05-08 10:29:31 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:44:32 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:44:33 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:44:33 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-0} closing ...
+2023-05-08 10:44:37 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:44:38 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:44:38 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:44:38 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:44:38 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:44:38 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:44:38 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@2e7bb00e
+2023-05-08 10:44:38 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:44:39 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:44:39 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:44:39 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:44:40 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:44:40 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.631 seconds (process running for 5.956)
+2023-05-08 10:44:41 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:44:44 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:44:44 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:44:44 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:44:44 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:44:44 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:44:44 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:44:44 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:49:22 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:49:22 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:49:22 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:49:22 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:49:26 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:49:27 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:49:27 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:49:27 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:49:27 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:49:27 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:49:27 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@18dd7767
+2023-05-08 10:49:28 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:49:28 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:49:28 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:49:28 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:49:29 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:49:30 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.667 seconds (process running for 6.058)
+2023-05-08 10:49:31 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:49:33 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08 10:49:33 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(35): 测试请求demoData
+2023-05-08 10:49:33 [http-nio-8716-exec-1] INFO  c.zl.boot.common.config.rabbit.Producer(43): 1:发送mq队列：TestQueue,消息：demoData
+2023-05-08 10:49:33 [http-nio-8716-exec-1] INFO  c.zl.boot.common.utils.redis.RedisTemplateUtil(99): 获取demoData的值
+2023-05-08 10:49:34 [rabbitConnectionFactory1] INFO  c.zl.boot.common.config.rabbit.MqCallback(25): ack,消息投递到exchange成功,msgId:1:demoData
+2023-05-08 10:49:34 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.zl.boot.common.config.rabbit.consumer.MqConsumer(21): 消费消息Received from TestDirectExchange : demoData 
+2023-05-08 10:49:34 [http-nio-8716-exec-1] INFO  c.al.druid.pool.DruidDataSource(996): {dataSource-1} inited
+2023-05-08 10:49:59 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:49:59 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:49:59 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-1} closing ...
+2023-05-08 10:49:59 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2211): {dataSource-1} closed
+2023-05-08 10:51:43 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(638): The following 1 profile is active: "dev"
+2023-05-08 10:51:44 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:51:44 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-08 10:51:44 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-08 10:51:44 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-08 10:51:44 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(33): redis的hostName为：192.168.99.129
+2023-05-08 10:51:44 [main] INFO  c.zl.boot.common.config.redis.RedisConfig(50): redisTemplate初始化完成org.springframework.data.redis.core.RedisTemplate@4b691611
+2023-05-08 10:51:45 [main] INFO  c.zl.boot.common.config.rabbit.Producer(33): 加载MQ成功
+2023-05-08 10:51:45 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-08 10:51:45 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2023-05-08 10:51:45 [main] INFO  c.al.nacos.plugin.auth.spi.client.ClientAuthPluginManager(56): [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2023-05-08 10:51:46 [main] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(76): nacos registry, DEFAULT_GROUP zl-server 192.168.30.241:8716 register finished
+2023-05-08 10:51:47 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 4.821 seconds (process running for 6.276)
+2023-05-08 10:51:48 [pool-7-thread-1] INFO  c.zl.boot.banner.core.BannerApplicationRunner(22): 
+    ____                                           __             ___             __             
+   /\  _`\                                        /\ \__         /\_ \           /\ \__          
+   \ \ \/\_\    ___     ___      __   _ __    __  \ \ ,_\  __  __\//\ \      __  \ \ ,_\    __   
+    \ \ \/_/_  / __`\ /' _ `\  /'_ `\/\`'__\/'__`\ \ \ \/ /\ \/\ \ \ \ \   /'__`\ \ \ \/  /'__`\ 
+     \ \ \L\ \/\ \L\ \/\ \/\ \/\ \L\ \ \ \//\ \L\.\_\ \ \_\ \ \_\ \ \_\ \_/\ \L\.\_\ \ \_/\  __/ 
+      \ \____/\ \____/\ \_\ \_\ \____ \ \_\\ \__/.\_\\ \__\\ \____/ /\____\ \__/.\_\\ \__\ \____\
+       \/___/  \/___/  \/_/\/_/\/___L\ \/_/ \/__/\/_/ \/__/ \/___/  \/____/\/__/\/_/ \/__/\/____/
+                                 /\____/                                                         
+                                 \_/__/                                                          
+
+2023-05-08 10:51:51 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(95): De-registering from Nacos Server now...
+2023-05-08 10:51:51 [SpringApplicationShutdownHook] INFO  c.al.cloud.nacos.registry.NacosServiceRegistry(115): De-registration finished.
+2023-05-08 10:51:51 [SpringApplicationShutdownHook] INFO  c.al.druid.pool.DruidDataSource(2138): {dataSource-0} closing ...

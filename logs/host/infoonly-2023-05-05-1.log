@@ -1,0 +1,97 @@
+2023-05-05 20:45:25 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 17356 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 20:45:25 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 20:45:25 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 0.52 seconds (process running for 2.182)
+2023-05-05 20:49:51 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 16976 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 20:49:51 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 20:49:51 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 0.493 seconds (process running for 2.663)
+2023-05-05 21:02:30 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 10812 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:02:30 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:02:31 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:02:31 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:02:31 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:02:31 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:02:31 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:02:31 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.307 seconds (process running for 2.827)
+2023-05-05 21:02:44 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:03:36 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 18008 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:03:36 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:03:36 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:03:36 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:03:36 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:03:36 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:03:36 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:03:37 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.175 seconds (process running for 2.451)
+2023-05-05 21:03:45 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:04:55 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 18040 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:04:55 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:04:56 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:04:56 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:04:56 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:04:56 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:04:56 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:04:56 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.114 seconds (process running for 2.401)
+2023-05-05 21:04:58 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:10:54 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 9680 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:10:54 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:10:54 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:10:54 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:10:54 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:10:54 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:10:54 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:10:54 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.204 seconds (process running for 2.337)
+2023-05-05 21:11:04 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:14:31 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 16956 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:14:31 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:14:32 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:14:32 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:14:32 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:14:32 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:14:32 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:14:32 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.109 seconds (process running for 2.383)
+2023-05-05 21:16:27 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 14724 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:16:27 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:16:27 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:16:27 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:16:27 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:16:27 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:16:27 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:16:27 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.216 seconds (process running for 2.449)
+2023-05-05 21:16:34 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:17:54 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 10544 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:17:54 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:17:55 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:17:55 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:17:55 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:17:55 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:17:55 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:17:55 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.119 seconds (process running for 2.45)
+2023-05-05 21:18:43 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 14688 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:18:43 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:18:43 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:18:43 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:18:43 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:18:43 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:18:44 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:18:44 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.129 seconds (process running for 2.364)
+2023-05-05 21:18:53 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:20:31 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 17720 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:20:31 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:20:31 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:20:31 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:20:31 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:20:31 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:20:32 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:20:32 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.245 seconds (process running for 2.355)
+2023-05-05 21:20:47 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:29:33 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(51): Starting ZlServerApplication using Java 17.0.6 with PID 15208 (F:\work\multiModule\multiMode\zl-server\target\classes started by zcy in F:\work\multiModule)
+2023-05-05 21:29:33 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(632): No active profile set, falling back to 1 default profile: "default"
+2023-05-05 21:29:34 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Initializing ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:29:34 [main] INFO  o.ap.catalina.core.StandardService(173): Starting service [Tomcat]
+2023-05-05 21:29:34 [main] INFO  o.ap.catalina.core.StandardEngine(173): Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-05-05 21:29:34 [main] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring embedded WebApplicationContext
+2023-05-05 21:29:34 [main] INFO  o.ap.coyote.http11.Http11NioProtocol(173): Starting ProtocolHandler ["http-nio-8716"]
+2023-05-05 21:29:34 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(57): Started ZlServerApplication in 1.054 seconds (process running for 2.343)
+2023-05-05 21:29:34 [main] INFO  c.zl.boot.zlserver.ZlServerApplication(16): 程序启动成功
+2023-05-05 21:29:39 [http-nio-8716-exec-1] INFO  o.ap.catalina.core.ContainerBase.[Tomcat].[localhost].[/](173): Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-05 21:29:39 [http-nio-8716-exec-1] INFO  c.zl.boot.zlserver.controller.TestController(25): 测试请求demoData
+2023-05-05 21:29:51 [http-nio-8716-exec-2] INFO  c.zl.boot.zlserver.controller.TestController(25): 测试请求"qqq"

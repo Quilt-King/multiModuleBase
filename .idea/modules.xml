@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multiMode/multiMode.iml" filepath="$PROJECT_DIR$/multiMode/multiMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiMode/zl-api/zl-api.iml" filepath="$PROJECT_DIR$/multiMode/zl-api/zl-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiMode/zl-banner/zl-banner.iml" filepath="$PROJECT_DIR$/multiMode/zl-banner/zl-banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiMode/zl-biz/zl-biz.iml" filepath="$PROJECT_DIR$/multiMode/zl-biz/zl-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiMode/zl-common/zl-common.iml" filepath="$PROJECT_DIR$/multiMode/zl-common/zl-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiMode/zl-dependencies/zl-dependencies.iml" filepath="$PROJECT_DIR$/multiMode/zl-dependencies/zl-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiMode/zl-server/zl-server.iml" filepath="$PROJECT_DIR$/multiMode/zl-server/zl-server.iml" />
+    </modules>
+  </component>
+</project>
